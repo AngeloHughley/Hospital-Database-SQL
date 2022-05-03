@@ -1,4 +1,4 @@
 Hospital Database based on SQL. 
 Create.SQL creates all tables in our system.
 Insert.SQL inserts all data in each table
-and Queries.SQL shows all functional requirements in our database.
+Queries.SQL shows all functional requirements in our database.
